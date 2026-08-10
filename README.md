@@ -47,6 +47,7 @@
 <p align="center"><img alt="AM178Q368448LK" src="./images/AM178Q368448LK.png" width="320" /></p>
 
 **说明：** 带触摸（CHSC6417）。
+
 ---
 
 ## 如何切换分支
