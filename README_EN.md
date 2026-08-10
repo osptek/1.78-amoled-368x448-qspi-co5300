@@ -46,8 +46,7 @@ Repo id: `1.78-amoled-368x448-qspi-co5300`
 
 <p align="center"><img alt="AM178Q368448LK" src="./images/AM178Q368448LK.png" width="320" /></p>
 
-**Notes:** Module.
-
+**Notes:** With touch (CHSC6417).
 ---
 
 ## How to Switch Branches
