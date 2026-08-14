@@ -18,7 +18,6 @@
 - [About](#about)
 - [Versions](#versions)
 - [AM178Q368448LK](#am178q368448lk)
-- [How to Switch Branches](#how-to-switch-branches)
 - [Where to Buy](#where-to-buy)
 - [Support](#support)
 
@@ -28,7 +27,7 @@
 
 This repository holds materials for the **1.78″ 368×448 AMOLED (QSPI · CO5300)** module family.
 
-**`main` is the navigation page** (repository default). Use the table below for a quick scan; click **Details** to jump to the section on this page. For a given version’s full content, switch to that **version branch** (see below).
+The **root README is the navigation page**. Use the table below for a quick scan; open **Full docs** to enter that **part-number folder** under `versions/` (product page, datasheets, and examples live there).
 
 Repo id: `1.78-amoled-368x448-qspi-co5300`
 
@@ -36,26 +35,19 @@ Repo id: `1.78-amoled-368x448-qspi-co5300`
 
 ## Versions
 
-| Version | Image | Notes |
-| ------- | ----- | ----- |
-| AM178Q368448LK | <img alt="AM178Q368448LK" src="./images/AM178Q368448LK.png" width="120" /> | [Details](#am178q368448lk) |
+| Version | Image | Summary | Full docs |
+| ------- | ----- | ------- | --------- |
+| AM178Q368448LK | <img alt="AM178Q368448LK" src="./versions/AM178Q368448LK/images/product.png" width="120" /> | [Summary](#am178q368448lk) | [Full docs](./versions/AM178Q368448LK/) |
 
 ---
 
 ## AM178Q368448LK
 
-<p align="center"><img alt="AM178Q368448LK" src="./images/AM178Q368448LK.png" width="320" /></p>
+<p align="center"><img alt="AM178Q368448LK" src="./versions/AM178Q368448LK/images/product.png" width="320" /></p>
 
 **Notes:** With touch (CHSC6417).
 
----
-
-## How to Switch Branches
-
-Full product materials are on each **version branch**; `main` is navigation only.
-
-- **Web:** open the branch dropdown at the top left of the repository page and select the branch that matches your part number.
-- **CLI:** after cloning, run `git checkout <version-branch>`; if the repo is already local, `git fetch` first, then switch.
+Full product page, datasheets, and examples: [versions/AM178Q368448LK/](./versions/AM178Q368448LK/)
 
 ---
 
